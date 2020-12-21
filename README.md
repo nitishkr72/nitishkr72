@@ -9,3 +9,7 @@
   </a>&nbsp;&nbsp;
 </p>
 </h1>
+
+<p align='right'>
+  <a href="#"><img src="https://badges.pufler.dev/visits/nitishkr72/nitishkr72"></a>
+</p>
