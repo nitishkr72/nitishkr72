@@ -3,7 +3,7 @@
   <br><br>
   <p align='right'>
     <a href="https://www.linkedin.com/in/nitishkr72/">
-      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+      <img src="linkedin.svg" height=30 width=30 />
     </a>&nbsp;&nbsp;
   </p>
 </h1>
