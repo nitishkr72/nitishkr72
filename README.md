@@ -11,7 +11,6 @@
 
 
 <p align='center'>
-  
   <img src="https://badges.pufler.dev/commits/monthly/nitishkr72" align="left">
   <img src="https://badges.pufler.dev/visits/nitishkr72/nitishkr72" align="right">
 </p>
