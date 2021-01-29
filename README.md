@@ -11,6 +11,6 @@
 
 
 <p align='center'>
-  <a href="https://www.github.com/nitishkr72/"><img src="https://badges.pufler.dev/commits/monthly/nitishkr72" align="left"></a>
+<!--   <a href="https://www.github.com/nitishkr72/"><img src="https://badges.pufler.dev/commits/monthly/nitishkr72" align="left"></a> -->
   <a href="https://www.linkedin.com/in/nitishkr72/"><img src="https://badges.pufler.dev/visits/nitishkr72/nitishkr72" align="right"></a>
 </p>
