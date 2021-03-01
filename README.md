@@ -1,5 +1,5 @@
 <h1 align='center'> 
-  Hi!:wave: I'm Nitish, Nice you came:slightly_smiling_face: 
+  Hi! there:wave:
   <br><br>
   <p align='right'>
     <a href="https://www.linkedin.com/in/nitishkr72/">
