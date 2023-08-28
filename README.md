@@ -12,7 +12,6 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Nitish+Kumar+Tezpur+University">「 Google Me 」</a>
     <br>
     「 I am a Frontend developer from <b>Bengaluru, India</b> 」
     <br>
